@@ -62,3 +62,9 @@ As the backend your job in the group is to provide the front end with api endpoi
 	* [Python Library](https://python-amazon-product-api.readthedocs.org/en/latest/index.html)
 * Schedule a Background task to run and update the price and quantity of any active, non-reserved items
 	* [Heroku Scheduler](https://elements.heroku.com/addons/scheduler)
+
+## External Links
+* [DRF Token Authentication](http://www.django-rest-framework.org/api-guide/authentication/#tokenauthentication)
+* [Django CORS headers](https://github.com/ottoyiu/django-cors-headers/)
+* [DRF Swagger](http://django-rest-swagger.readthedocs.org/en/latest/)
+* [Stripe Documentation](https://stripe.com/docs)
